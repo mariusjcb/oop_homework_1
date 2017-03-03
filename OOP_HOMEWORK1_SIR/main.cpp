@@ -7,9 +7,21 @@
 //
 
 #include <iostream>
+#include "Set.cpp"
+
+/*class Impl {
+public:
+    void setProperty(int value) {
+        if (m_property != value) {
+            m_property = value;
+            for(auto observer:m_observers) {
+                observer->propertyChanged(this, value);
+            }
+        }
+    }
+};*/
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
     return 0;
 }
