@@ -25,9 +25,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7AAAC4411E69C520009E9A5B /* Observer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Observer.hpp; sourceTree = "<group>"; };
 		7AD69D561E69871C0008E615 /* OOP_HOMEWORK1_SIR */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OOP_HOMEWORK1_SIR; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AD69D591E69871D0008E615 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		7AD69D601E699CDD0008E615 /* Observer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Observer.hpp; sourceTree = "<group>"; };
 		7AD69D641E699D720008E615 /* Observer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Observer.cpp; sourceTree = "<group>"; };
 		7AD69D671E699DBF0008E615 /* Set.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Set.cpp; sourceTree = "<group>"; };
 		7AD69D681E699DBF0008E615 /* Set.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Set.hpp; sourceTree = "<group>"; };
@@ -72,7 +72,7 @@
 		7AD69D621E699CF20008E615 /* Observer */ = {
 			isa = PBXGroup;
 			children = (
-				7AD69D601E699CDD0008E615 /* Observer.hpp */,
+				7AAAC4411E69C520009E9A5B /* Observer.hpp */,
 				7AD69D641E699D720008E615 /* Observer.cpp */,
 			);
 			name = Observer;
@@ -274,6 +274,7 @@
 				7AD69D5F1E69871D0008E615 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
